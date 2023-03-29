@@ -20,7 +20,7 @@ a) Automatically: We may collect information automatically through your use of t
 
 b) Directly from You: We may collect information directly from you when you submit it to us, such as when you provide an email address.
 
-How We Use Your Information
+# How We Use Your Information
 We may use your information for the following purposes:
 
 a) To operate and improve the game.
