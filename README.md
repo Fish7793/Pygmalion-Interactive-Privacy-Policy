@@ -54,6 +54,7 @@ We may update this Privacy Policy from time to time. The most current version of
 # Contact Us
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at pygmalioninteractive@gmail.com.
 
+-----
 This Privacy Policy is effective as of 3/29/2023.
 
 
